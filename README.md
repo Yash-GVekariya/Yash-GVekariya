@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Yash, a tech enthusiast from India.
+
+I have some hobbies like Video-Editing(Yt channel), Music Production and playing games sometimes.
+I am honing my programming skills with python (numpy, pandas) in the way of learning Machine Learning, am familiar with the basic Web technologies.
+I am also learing the tools like VS-Code, Jupyter, Git - Github, AI (when i get stuck😋).
+
+I am periodically active on my social media pages (links in bio), also created a website with my WebDev skills( and a little help of AI 😋).
 <!--
 **Yash-GVekariya/Yash-GVekariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

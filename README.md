@@ -3,10 +3,30 @@
 I am Yash, a tech enthusiast from India.
 
 I have some hobbies like Video-Editing(Yt channel), Music Production and playing games sometimes.
-I am honing my programming skills with python (numpy, pandas) in the way of learning Machine Learning, am familiar with the basic Web technologies.
-I am also learing the tools like VS-Code, Jupyter, Git - Github, AI (when i get stuck😋).
 
 I am periodically active on my social media pages (links in bio), also created a website with my WebDev skills( and a little help of AI 😋).
+
+---
+## Skills
+<ul>
+  <li> Python.</li>
+  <li> Video Editing (basic)</li>
+  <li> Pandas</li>
+  <li> Numpy</li>
+  <li> Machine learning (learning Phase)</li>
+  <li> Web technologies (Basic)</li>
+  <li> C++</li>
+</ul>
+
+---
+## Tools
+<ul>
+  <li> VS Code</li>
+  <li> Da Vinci (Video Editing)</li>
+  <li> Git - Github</li>
+  <li> Git - Github</li>
+  <li> AI (when i get stuck somewhere 😋)</li>
+</ul>
 <!--
 **Yash-GVekariya/Yash-GVekariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

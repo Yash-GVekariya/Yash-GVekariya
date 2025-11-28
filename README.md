@@ -24,7 +24,6 @@ I am periodically active on my social media pages (links in bio), also created a
   <li> VS Code</li>
   <li> Da Vinci (Video Editing)</li>
   <li> Git - Github</li>
-  <li> Git - Github</li>
   <li> AI (when i get stuck somewhere 😋)</li>
 </ul>
 <!--
